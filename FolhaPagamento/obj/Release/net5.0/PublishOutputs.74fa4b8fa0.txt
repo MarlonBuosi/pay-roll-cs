@@ -1,0 +1,5 @@
+C:\Users\marlo\Desktop\Folha De Pagamento v1.0\FolhaPagamento.exe
+C:\Users\marlo\Desktop\Folha De Pagamento v1.0\FolhaPagamento.dll
+C:\Users\marlo\Desktop\Folha De Pagamento v1.0\FolhaPagamento.deps.json
+C:\Users\marlo\Desktop\Folha De Pagamento v1.0\FolhaPagamento.runtimeconfig.json
+C:\Users\marlo\Desktop\Folha De Pagamento v1.0\FolhaPagamento.pdb

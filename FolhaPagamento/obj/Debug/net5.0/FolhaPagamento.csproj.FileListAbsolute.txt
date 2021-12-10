@@ -1,0 +1,48 @@
+C:\Users\marlo\source\repos\FolhaPagamento\FolhaPagamento\bin\Debug\net5.0\FolhaPagamento.exe
+C:\Users\marlo\source\repos\FolhaPagamento\FolhaPagamento\bin\Debug\net5.0\FolhaPagamento.deps.json
+C:\Users\marlo\source\repos\FolhaPagamento\FolhaPagamento\bin\Debug\net5.0\FolhaPagamento.runtimeconfig.json
+C:\Users\marlo\source\repos\FolhaPagamento\FolhaPagamento\bin\Debug\net5.0\FolhaPagamento.runtimeconfig.dev.json
+C:\Users\marlo\source\repos\FolhaPagamento\FolhaPagamento\bin\Debug\net5.0\FolhaPagamento.dll
+C:\Users\marlo\source\repos\FolhaPagamento\FolhaPagamento\bin\Debug\net5.0\ref\FolhaPagamento.dll
+C:\Users\marlo\source\repos\FolhaPagamento\FolhaPagamento\bin\Debug\net5.0\FolhaPagamento.pdb
+C:\Users\marlo\source\repos\FolhaPagamento\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.csprojAssemblyReference.cache
+C:\Users\marlo\source\repos\FolhaPagamento\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\source\repos\FolhaPagamento\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.AssemblyInfoInputs.cache
+C:\Users\marlo\source\repos\FolhaPagamento\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.AssemblyInfo.cs
+C:\Users\marlo\source\repos\FolhaPagamento\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.csproj.CoreCompileInputs.cache
+C:\Users\marlo\source\repos\FolhaPagamento\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.dll
+C:\Users\marlo\source\repos\FolhaPagamento\FolhaPagamento\obj\Debug\net5.0\ref\FolhaPagamento.dll
+C:\Users\marlo\source\repos\FolhaPagamento\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.pdb
+C:\Users\marlo\source\repos\FolhaPagamento\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.genruntimeconfig.cache
+D:\Dev\Visual Studio Repo\FolhaPagamento\FolhaPagamento\bin\Debug\net5.0\FolhaPagamento.exe
+D:\Dev\Visual Studio Repo\FolhaPagamento\FolhaPagamento\bin\Debug\net5.0\FolhaPagamento.deps.json
+D:\Dev\Visual Studio Repo\FolhaPagamento\FolhaPagamento\bin\Debug\net5.0\FolhaPagamento.runtimeconfig.json
+D:\Dev\Visual Studio Repo\FolhaPagamento\FolhaPagamento\bin\Debug\net5.0\FolhaPagamento.runtimeconfig.dev.json
+D:\Dev\Visual Studio Repo\FolhaPagamento\FolhaPagamento\bin\Debug\net5.0\FolhaPagamento.dll
+D:\Dev\Visual Studio Repo\FolhaPagamento\FolhaPagamento\bin\Debug\net5.0\ref\FolhaPagamento.dll
+D:\Dev\Visual Studio Repo\FolhaPagamento\FolhaPagamento\bin\Debug\net5.0\FolhaPagamento.pdb
+D:\Dev\Visual Studio Repo\FolhaPagamento\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.csprojAssemblyReference.cache
+D:\Dev\Visual Studio Repo\FolhaPagamento\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Visual Studio Repo\FolhaPagamento\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.AssemblyInfoInputs.cache
+D:\Dev\Visual Studio Repo\FolhaPagamento\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.AssemblyInfo.cs
+D:\Dev\Visual Studio Repo\FolhaPagamento\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.csproj.CoreCompileInputs.cache
+D:\Dev\Visual Studio Repo\FolhaPagamento\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.dll
+D:\Dev\Visual Studio Repo\FolhaPagamento\FolhaPagamento\obj\Debug\net5.0\ref\FolhaPagamento.dll
+D:\Dev\Visual Studio Repo\FolhaPagamento\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.pdb
+D:\Dev\Visual Studio Repo\FolhaPagamento\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.genruntimeconfig.cache
+D:\Dev\Visual Studio Repo\folha-pagamento-cs\FolhaPagamento\bin\Debug\net5.0\FolhaPagamento.exe
+D:\Dev\Visual Studio Repo\folha-pagamento-cs\FolhaPagamento\bin\Debug\net5.0\FolhaPagamento.deps.json
+D:\Dev\Visual Studio Repo\folha-pagamento-cs\FolhaPagamento\bin\Debug\net5.0\FolhaPagamento.runtimeconfig.json
+D:\Dev\Visual Studio Repo\folha-pagamento-cs\FolhaPagamento\bin\Debug\net5.0\FolhaPagamento.runtimeconfig.dev.json
+D:\Dev\Visual Studio Repo\folha-pagamento-cs\FolhaPagamento\bin\Debug\net5.0\FolhaPagamento.dll
+D:\Dev\Visual Studio Repo\folha-pagamento-cs\FolhaPagamento\bin\Debug\net5.0\ref\FolhaPagamento.dll
+D:\Dev\Visual Studio Repo\folha-pagamento-cs\FolhaPagamento\bin\Debug\net5.0\FolhaPagamento.pdb
+D:\Dev\Visual Studio Repo\folha-pagamento-cs\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.csproj.AssemblyReference.cache
+D:\Dev\Visual Studio Repo\folha-pagamento-cs\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Visual Studio Repo\folha-pagamento-cs\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.AssemblyInfoInputs.cache
+D:\Dev\Visual Studio Repo\folha-pagamento-cs\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.AssemblyInfo.cs
+D:\Dev\Visual Studio Repo\folha-pagamento-cs\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.csproj.CoreCompileInputs.cache
+D:\Dev\Visual Studio Repo\folha-pagamento-cs\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.dll
+D:\Dev\Visual Studio Repo\folha-pagamento-cs\FolhaPagamento\obj\Debug\net5.0\ref\FolhaPagamento.dll
+D:\Dev\Visual Studio Repo\folha-pagamento-cs\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.pdb
+D:\Dev\Visual Studio Repo\folha-pagamento-cs\FolhaPagamento\obj\Debug\net5.0\FolhaPagamento.genruntimeconfig.cache
